@@ -1,5 +1,5 @@
 # macOS-dl
-A simple macOS curl wrapper (also supports linux if you edit the download path in the code yourself ;P)
+A simple macOS curl wrapper (also supports linux if you edit the download path in the code yourself, if you use Linux you would know how to do that already ;P)
 
 ## Usage
 ```
