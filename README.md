@@ -11,6 +11,7 @@ The file will be downloaded to the Downloads folder in your home directory.
 ```
 git clone https://github.com/simonfalke-01/macOS-dl.git
 cd macOS-dl
+pip3 install -r requirements.txt
 chmod +x dl
 ```
 Optional: `sudo cp ./dl /usr/local/bin/dl` to use anywhere in the shell with `dl`.
