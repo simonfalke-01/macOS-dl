@@ -17,5 +17,5 @@ chmod +x dl
 ```
 Optional: `sudo cp ./dl /usr/local/bin/dl` to use anywhere in the shell with `dl`.
 
-## Why did I make this
+## Why I made this
 I was tired of typing `curl -O <url>` and `mv <filename> ~/Downloads` every time I wanted to download something, *lol*.
