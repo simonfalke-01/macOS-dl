@@ -8,6 +8,7 @@ A simple macOS curl wrapper (also supports linux if you edit the download path i
 The file will be downloaded to the Downloads folder in your home directory.
 
 ## Installation
+Make sure you have python3 installed.
 ```
 git clone https://github.com/simonfalke-01/macOS-dl.git
 cd macOS-dl
